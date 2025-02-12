@@ -43,6 +43,6 @@ Lecture notes can be found on the course Canvas website.
 |   Assignment 1: Transformers      | Jan 9   | Jan 21  |
 |     Assignment 2: Prompt Tuning      |  Jan 22   |Jan 30  |
 |     Assignment 3: SFT      |  Jan 31   |Feb 11  |
-|     Assignment 4: RLHF      |  Feb 12   |Feb 21  |
-|     Assignment 5: RAG      |  Feb 21   |March 4  |
+|     Assignment 4: RLHF      |  Feb 13   |Feb 24  |
+|     Assignment 5: RAG      |  Feb 24   |March 4  |
 |  Take-home final exam      |    March 5   | Due Friday, March 7th  |
