@@ -1,13 +1,6 @@
 # Stat 360 -- Introduction to Generative AI Winter 2025
 Stat 360 course materials
 
-# Office Hours
-
-| Project title                  | Time | Location              
-|--------------------------------|---------------|-------------------------|
-| Ryan Chen (TA) | Thursdays 3-4pm    | Zoom: https://northwestern.zoom.us/j/3082623966  | 
-|  Professor Stadie        |  Posted on Canvas  |  Zoom: https://northwestern.zoom.us/j/3799597115 |
-
 # Course Lectures 
 
 Lecture notes can be found on the course Canvas website. 
@@ -34,15 +27,3 @@ Lecture notes can be found on the course Canvas website.
 | Week 9, Tuesday  |  March 4| Life is Worse with LLMs |  |
 | Week 9, Thursday   |  March 6| No class. Complete take-home final exam   |  |
 
-
-# Homeworks and Due Dates
-
-
-| Project title                  | Date released | Due date                
-|--------------------------------|---------------|-------------------------|
-|   Assignment 1: Transformers      | Jan 9   | Jan 21  |
-|     Assignment 2: Prompt Tuning      |  Jan 22   |Jan 30  |
-|     Assignment 3: SFT      |  Jan 31   |Feb 11  |
-|     Assignment 4: RLHF      |  Feb 13   |Feb 24  |
-|     Assignment 5: RAG      |  Feb 24   |March 4  |
-|  Take-home final exam      |    March 5   | Due Friday, March 7th  |
